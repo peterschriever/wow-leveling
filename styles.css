@@ -1,5 +1,5 @@
 .notice-block {
-    font-weight: 500;
+    font-weight: 400;
     display: flex;
     -webkit-box-align: center;
     align-items: center;
@@ -10,7 +10,6 @@
     margin: 1.25rem 0;
 }
 .notice-block:before {
-    font-weight: bold;
     display: block;
     width: 24px;
     align-self: flex-start;
