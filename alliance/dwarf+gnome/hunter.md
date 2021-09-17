@@ -14,7 +14,7 @@ Dwarf hunter leveling notes for classic era
 
 ## Dun Morogh lvl 10
  - buy low lvl gun
- - hit lvl6 at kharanos
+ - hit lvl6 at kharanos ***goal: 26min***
  - grab arcane shot + **set HS** + quests
  - bear pelts + boar chunks asap
  - ammo crate
