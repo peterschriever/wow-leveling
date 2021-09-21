@@ -39,32 +39,32 @@ Dwarf hunter leveling notes for classic era
 
 ---
 
- ## Elwynn Forest - Redridge - Westfall 10-14
+ ## Elwynn Forest - Redridge - Westfall 10-13 *maybe 14*
  - go Goldshire - pickups - **train cooking**
  - fargodeep mine and goldtooth chain - **Tame bear**
  - Goldshire - progress quests
- - murlocs + jasperlode mine -> bridge guard quests + eastvale quests
+ - murlocs + jasperlode mine -> bridge guard quests -> Princess Must Die -> eastvale quests
  - progress death guard quest -> red bandanas from caster island (*pick up logs, kill wolves&bears*)
  - death guard at murlocs
  - finish log pickups + wolves & bears
  - eastvale turn ins -> bridge turn ins
- - Princess Must Die
  - Redridge - FP - pickups - necklace from water -> guard quest -> run Darkshire
- - Darkshire - FP -> SW - **train 12** -> Hogger Wanted Sign
+ - Darkshire - FP -> SW - turn in - **train 12** -> Hogger Wanted Sign
  > **train 12:** Wing Clip, Arcane Shot r2, Mend Pet, Distracting Shot, Pet sta/arm
 
-> **HS Idea; set SW or Goldshire?** Need to crunch the numbers  
+> **HS Idea; set SW or Goldshire?** Todo; need to crunch the numbers  
 > flying SW->Thelsamar is 317s.  
 > Darkshire->SW is 88s,  Sentinel hill->SW is 86s, SW->Goldshire run is ?s
 
- - Hogger -> Sentinel Hill
- - westfall entry - gnoll paws + bandanas + defias p1
- - turn ins - run goldshire - turn ins -> **HS Thelasamar**
+ - Hogger -> north Westfall pickups -> Sentinel Hill - turn in and pick ups
+ - gnoll paws + bandanas / defias p1 + pocket watch loop
+ - turn ins: Sentinel Hill - north Westfall - princess+goldtooth - Goldshire -> **HS Thelasamar**
 
 ---
 
-## Loch Modan -> wetlands skip 14
- - run north - turn in - wetlands skip
+## Loch Modan -> wetlands skip 13-14
+ - turn ins thelsamar -> run north
+ - get miner's gear 4/4 -> north turn ins -> loch to wetlands skip
 
 ---
 
