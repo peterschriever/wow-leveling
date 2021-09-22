@@ -71,7 +71,7 @@ Dwarf hunter leveling notes for classic era
 ## Darkshore 14-15
  - pickups + FP - boat to Darn - learn Staves
  - staff quest (red crystal) + Planestrider cooking Q (Partial)
- - crabs buzzbox 827 + washed ashore + How Big a Threat p1 - turn in
+ - crabs buzzbox 827 + washed ashore + How Big a Threat p1
  - threshers buzzbox 411 + washed ashore p2
 
 *map credits: [Alenya and Umbra's Alliance Leveling Maps](https://www.patreon.com/posts/full-1-60-guide-25730114)*  
@@ -79,25 +79,26 @@ Dwarf hunter leveling notes for classic era
 ![Darkshore map by Alenya and Umbra](./img/darkshore-leveling-map-by-alenya-and-umbra.png)
 
  ### North p1 15-16
- - turn in 'specific quests' **TBD** at auberdine - Thundris Exit North
+ - turn in How Big a Threat p1 - get quests - Thundris Exit North
  - ships quest -> nearby Beached Sea Creature -> finish Buzzbox 411 (start 323)
  - Bashal'Aran quests
  - Beached Sea Creature straight up north -> River water -> Beached Sea Creature
- - Moonstalker Fangs -> A Lost Master The Tower of Althalaxx -> Cave Mushrooms
+ - Moonstalker Fangs -> The Tower of Althalaxx -> Cave Mushrooms
  - back to Auberdine pickup **Rabid Thistle Bear for Plagued Lands**
  - Darnassus to **train 16**
 > **train 16:** Immolation Trap, Raptor r3, Scare Beast, Eagle Eye, Eyes of the Beast
  
  ### South p1 16-17
- - turn in 'specific quests' **TBD**
+ - pickup quests (Plagued Lands p2), progress Cave Mushrooms
+ - 7 free questslots
  - How Big a Threat (furbolgs) p2
- - Ameth'Aran quests
+ - Ameth'Aran quests - turn in the fall
  - pickup 2 Beached Sea Creatures along coast + kill rabid thistle bears ***partial***
  - Fruit of the Sea (*partial pending rng*) + Murkdeep
- - Buzzbox 525 (Grizzled bears) + A Lost Master p1 (5 pelts) ***partial*** -> Onu
+ - Buzzbox 525 (Grizzled bears) ***partial*** -> Onu
  - bears & cats & crabs ***partials*** -> Finish up Beached Sea Creatures
  - Glaive & Therylune's Escape escort
- - Finish Fruit of the Sea(crabs) + A Lost Master (pelts) + Buzzbox 525 (turn in)
+ - Finish Fruit of the Sea(crabs) + Buzzbox 525 (turn in)
  - One Shot. One Kill. if up
  - The Sleeper Has Awakened escort quest
  - Tower of Althalaxx gem grind
@@ -105,7 +106,10 @@ Dwarf hunter leveling notes for classic era
 
 ### North p2 17-18
  - turn in 'specific quests' **TBD** *everything & HS?*
- - exit Auberdine East -> Bashal'Aran turn in
- - Furbolgs finisher + Den Mother -> Naga Relics + Gyromast's keys
+ - exit Auberdine East or North -> Bashal'Aran turn in
+ - Furbolgs finisher + Den Mother -> Naga Relics + Gyromast's keys + Lost master pelts
  - Finish up Gyromast questline
- - back to Auberdine for turn ins ***or HS***
+ - ~~back to Auberdine for turn ins~~ ***or HS***
+
+
+ buy smoked bear meat recipe @loch
